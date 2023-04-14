@@ -1,0 +1,12 @@
+
+
+# Ignorer un dossier spécifique
+sounds/*
+img/alice/*
+img/shams/*
+img/jb/*
+img/jules/*
+img/backgrounds/*
+fonts/
+
+
